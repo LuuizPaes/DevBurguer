@@ -4,6 +4,8 @@ const mapItems = document.querySelector('.map-items')
 const sumItems = document.querySelector('.sum-items')
 const filterItems = document.querySelector('.filter-items')
 
+
+
 function formatCurrency(value) {
     const newValue = value.toLocaleString('pt-br',{style: 'currency', currency: 'BRL'});
     return newValue
