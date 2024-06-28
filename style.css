@@ -13,10 +13,9 @@ body {
 
 .logo {
     position: fixed;
-    
     width: 200px;
     height: 200px;
-    z-index: 2;
+    
 }
 
 .background-site {
@@ -46,6 +45,7 @@ button {
     font-weight: bold;
     cursor: pointer;
     width: 120px;
+    transition: all 1s ease-out;
 }
 
 button:hover {
@@ -65,11 +65,12 @@ ul {
     justify-content: center;
     cursor: pointer;
     
+    
 
 }
 
 li {
-    border: 2px solid #eb0606;
+    border: 2px solid #dbfe3d;
     border-radius: 5px;
     padding: 5px;
 }
