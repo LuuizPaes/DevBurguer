@@ -1,6 +1,6 @@
 # Devburger 
 
-Devburguer é um desafio feito no ultimo módulo do JavaScript da formaçação Full stack pro do Devclub, onde utilizei ForEach, map, reduce e filter para colocar os conhecimentos em prática.
+Devburguer é um desafio feito no ultimo módulo do JavaScript da formaçação Full stack pro do Devclub, onde utilizei ForEach, map, reduce e filter para poder fazer alterações como mostrar todos os lanches, dar 10% de desconto, somar todos os lanches, e filtrar trazendo somente lanches veganos.
 
 ## Vizualize o projeto
 (https://luuizpaes.github.io/DevBurguer/)
